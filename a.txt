@@ -2,3 +2,4 @@ Hello git!
 hello world!
 hello yoyoyo!
 test bug1 add!
+测试添加重复代码合并！
