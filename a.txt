@@ -1,2 +1,4 @@
 Hello git!
 hello world!
+hello yoyoyo!
+test bug1 add!
