@@ -3,3 +3,4 @@ hello world!
 hello yoyoyo!
 test bug1 add!
 测试主线添加重复代码合并情况！
+测试添加重复代码合并！
